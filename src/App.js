@@ -2,7 +2,7 @@ import React from "react";
 import Container from "./components/container/Container";
 import Profile from "./components/profile/Profile";
 import Statistics from "./components/statistics/Statistics";
-import FriendList from "./components/friend-list/FriendList";
+import FriendList from "./components/friends/friend-list/FriendList";
 import TransactionHistory from "./components/transaction-history/TransactionHistory";
 import user from "./data/user.json";
 import statistics from "./data/statistical-data.json";
